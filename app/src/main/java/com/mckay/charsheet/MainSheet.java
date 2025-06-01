@@ -22,6 +22,9 @@ public class MainSheet {
      * call this to update the char after all the values are set.
      */
     public void initChar(){
+        name.init();
+        //all other nouns should be inited here...
+
 
     }
 

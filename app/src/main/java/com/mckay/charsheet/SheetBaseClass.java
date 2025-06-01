@@ -18,4 +18,7 @@ abstract public class SheetBaseClass {
     public void setLabel(String label){
         this.label = label;
     }
+
+
+    abstract public void init();
 }
